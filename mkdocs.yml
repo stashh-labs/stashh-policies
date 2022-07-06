@@ -1,0 +1,49 @@
+site_name: Stashh Policies
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.tabs.sticky
+    - toc.follow
+    - toc.integrate
+    - search
+    - content.tabs.link
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+extra_css: [stylesheets/extra.css]
+markdown_extensions:
+  - admonition
+  - abbr
+  - pymdownx.snippets
+  - footnotes
+  - md_in_html
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/StashhApp
+    - icon: fontawesome/brands/discord
+      link: https://chat.stashh.io
+    - icon: fontawesome/brands/github
+      link: https://github.com/stashh-labs
+    - icon: fontawesome/solid/blog
+      link: https://stashh.substack.com/
