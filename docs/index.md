@@ -4,4 +4,5 @@ title: Home
 
 # Stashh Polices Repository
 
-- [Terms & Conditions](./terms.md)
+- [Stashh Terms & Conditions](./terms.md)
+- [Stashh of the Day Terms & Conditions](./stashh-of-the-day.md)

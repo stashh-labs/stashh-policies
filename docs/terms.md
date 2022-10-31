@@ -1,5 +1,5 @@
 ---
-title: Terms & Conditions
+title: Stashh Terms & Conditions
 ---
 
 # Terms & Conditions
