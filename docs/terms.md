@@ -2,9 +2,9 @@
 title: Stashh Terms & Conditions
 ---
 
-# Terms & Conditions
+# Stashh Terms & Conditions
 													
-Last updated: **July 6th, 2022** 
+Last updated: **July 6, 2022** 
 
 These Terms and Conditions (the "Terms") govern your use of the website and application located at [https://stashh.io](https://stashh.io) and other sites and subdomains (collectively, "Stashh" or the "Platform") owned and operated by Stashh Labs Inc, a United States business company ("Stashh", the "Company", "we", "us", or "our").
 

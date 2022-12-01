@@ -5,4 +5,5 @@ title: Home
 # Stashh Polices Repository
 
 - [Stashh Terms & Conditions](./terms.md)
-- [Stashh of the Day Terms & Conditions](./stashh-of-the-day.md)
+- [Stashh of the Day - Nov '22 Terms & Conditions](./stashh-of-the-day-nov-22.md)
+- [Stashh of the Day - Dec '22 Terms & Conditions](./stashh-of-the-day-dec-22.md)
