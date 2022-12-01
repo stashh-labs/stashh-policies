@@ -1,10 +1,10 @@
 ---
-title: Stashh of the Day Terms & Conditions
+title: Stashh of the Day December '22 Terms & Conditions
 ---
 
-# Terms & Conditions
-													
-Last updated: **October 31st, 2022** 
+# Stashh of the Day December '22 Terms & Conditions
+
+Last updated: **December 1, 2022** 
 
 **NO PURCHASE OR PAYMENT OF ANY KIND NECESSARY TO ENTER OR WIN. A PURCHASE WILL NOT INCREASE YOUR CHANCES OF WINNING. THIS PROMOTION WILL BE GOVERNED BY U.S. LAW. DO NOT ENTER IF YOU ARE NOT ELIGIBLE OR LOCATED IN A JURISDICTION WHERE IT IS UNLAWFUL TO PARTICIPATE. THIS PROMOTION IS VOID WHERE PROHIBITED BY LAW.**
 
@@ -12,11 +12,11 @@ Last updated: **October 31st, 2022**
 
 **ELIGIBILITY**: The Stashh.io "Stashh of the Day Giveaway" ("Promotion") is open to legal residents of the United States (U.S.) who are 18 years of age or older at the time of entry and other jurisdictions as legally permitted. Employees, household members (whether or not related) and immediate family members (spouses, parents, siblings, children and each of their respective spouses regardless of where they reside) of employees of Sponsor and its partners and affiliates, and any and all other participating parties, and their respective parent companies, subsidiaries, and affiliates, and their advertising and promotion agencies, and all local sponsors (collectively, the "Participating Parties"), are NOT eligible to enter or win any prizes. By entering, all entrants agree to release the Released Parties (defined below) from and against all claims and damages arising in connection with each entrant’s participation and/or entry in the Promotion. This Promotion is governed by U.S. law and is subject to all applicable federal, state and local laws and regulations.
 
-**PROMOTION OVERVIEW AND PROMOTION PERIOD**: No purchases are required. The Promotion consists of a sweepstakes with a prize pool of ten thousand ($10,000) dollars to be split amongst three (3) winners. The Promotion begins at or around November 1, 2022 to November 30, 2022 ("Promotion Period"). Participation constitutes Participants ("Participants") full and unconditional agreement to these Official Rules and Sponsor’s decisions, which are final and binding on all matters related to the Promotion. 
+**PROMOTION OVERVIEW AND PROMOTION PERIOD**: No purchases are required. The Promotion consists of a sweepstakes with a prize pool of up to twenty thousand ($20,000) dollars to be split amongst up to twenty (20) winners. The Promotion begins at or around December 1, 2022 to December 31, 2022 ("Promotion Period"). Participation constitutes Participants ("Participants") full and unconditional agreement to these Official Rules and Sponsor’s decisions, which are final and binding on all matters related to the Promotion. 
 
 **HOW TO ENTER THE SWEEPSTAKES PRIZE DRAWING**:  No purchase necessary. To enter the Sweepstakes, you need to link your Discord and Twitter accounts to your Stashh.io account and claim the daily badges (NFTs) given away by Stashh.io during the Promotion Period. Each badge can be claimed beginning at 15:00 UTC and will last for 24 hours. Each time a badge is claimed from the daily giveaway counts as an entry to win the prize drawing. The winner will be randomly drawn from the collected pool of entries.
 
-Official rules can be found by visiting the Stashh.io website page at: https://stashh.substack.com/p/stashh-of-the-day
+Official rules can be found by visiting the Stashh.io website page at: https://stashh.substack.com/p/stashh-of-the-day-extended
 
 Stashh.io (the "Sponsor"), each of its respective partners and affiliates, the advertising and promotion agencies, and each of the aforementioned companies’ respective officers, directors, shareholders, and employees and agents (collectively, "Released Parties"), are not responsible for any incorrect or inaccurate entry information; human error; technical malfunctions; failures, omission, interruption, deletion, or defect of any telephone network, computer online systems, computer equipment, server providers, or software, including any injury or damage to Participant’s or any other person’s computer relating to or resulting from participation in this Sweepstakes; inability to access the website; theft, tampering, destruction, or unauthorized access to, or alteration of entries; entries that are processed late or incorrectly or are incomplete or lost due to computer or electronic malfunction or traffic congestion on the Internet or at any website; printing, typographical, human or other errors; and any entries which are lost, incomplete, delayed, misdirected, inaccurate, or any combination thereof. Entries are considered upon time of badge claim. A purchase will not increase your chance of winning.
 
@@ -24,13 +24,15 @@ Furthermore, any attempt by an entrant to deliberately undermine the legitimate 
 
 Any form of entry other than that described herein is void.
 
-**SWEEPSTAKES PRIZE**: One (1) prize winner will receive five thousand ($5000) dollars.  One (1) prize winner will receive three thousand ($3000) dollars.  One (1) prize winner will receive two thousand ($2000) dollars.  The three (3) aforementioned prize winners will be selected randomly on or around December 15, 2022.
+**SWEEPSTAKES PRIZE**: For every three thousand (3,000) unique verified level 2+ Stashh users who claim more than seven (7) unique badges between December 1, 2022 and December 14, 2022 Stashh will add one (1) one thousand ($1,000) dollar prize to the prize pool up to a maximum of 10 (ten) prizes or ten thousand ($10,000) dollars. For every three thousand (3,000) unique verified level 2+ Stashh users who claim more than seven (7) unique badges between December 15, 2022 and December 31, 2022 Stashh will add one (1) one thousand ($1,000) dollar prize to the prize pool up to a maximum of 10 (ten) prizes or ten thousand ($10,000) dollars.
+
+The total prize pool at the end of December 31, 2022 will be divided into prizes of one thousand ($1,000) dollars. Each prize winner will receive one (1) prize of one thousand ($1,000) dollars. The aforementioned prize winners will be selected randomly on or around January 15, 2023.
 
 **SWEEPSTAKES PRIZE NOTIFICATION/REQUIREMENTS**:  Winners shall be notified by Discord and/or Twitter. If a winner cannot be contacted within seven (7) days, is not in compliance with these Official Rules, or a prize or prize notification is returned as undeliverable, the prize may be forfeited.
 
 Winner is responsible for any costs, including without limitation any taxes or other associated costs.
 
-**ODDS OF WINNING**: Odds of winning any of the Sweepstakes’ prizes depends on the number of eligible entries received during the corresponding Promotion Period. 
+**ODDS OF WINNING**: Odds of winning any of the Sweepstakes’ prizes depends on the number of eligible entries received and the number of prizes during the corresponding Promotion Period. 
 
 **GENERAL CONDITIONS**: By accepting a prize, the winner grants Sponsor and/or their designees the right to use their submitted information for advertising, publicity, promotional and other purposes in any and all media, now or hereafter devised, throughout the world in perpetuity, without additional compensation, notification or permission, except where prohibited by law. Released Parties are not responsible for lost, incomplete, inaccurate, delayed, stolen, or misdirected entries; or for lost, interrupted or unavailable network, server, Internet Service Provider (ISP), website, or other connections, availability or accessibility or miscommunications or failed computer, satellite, telephone or cable transmissions, lines, or technical failure or jumbled, scrambled, delayed, or misdirected transmissions or computer hardware or software malfunctions, failures or difficulties, or other errors or difficulties of any kind whether human, mechanical, electronic, computer, network, typographical, printing or otherwise relating to or in connection with the Promotion, including, without limitation, errors or difficulties which may occur in connection with the administration of the Promotion, the processing of entries, the announcement of the prizes or in any Promotion-related materials. Released Parties are also not responsible for any incorrect or inaccurate information, whether caused by site users, tampering, hacking, or by any equipment or programming associated with or utilized in the Promotion. 
 
