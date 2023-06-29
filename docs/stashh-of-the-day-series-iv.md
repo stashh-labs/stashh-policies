@@ -22,7 +22,7 @@ Furthermore, any attempt by an entrant to deliberately undermine the legitimate 
 
 Any form of entry other than that described herein is void.
 
-**SWEEPSTAKES PRIZE**: During each daily period Participants will be able to claim one (1) badge from a maximum pool of ten-thousand (10,000) badges. If the badge (NFT) claimed by the Participant has a "Redeemable" public metadata property with one of the following values the Eligible Participant will win the corresponding prize via a notification on Stashh.io. 
+**SWEEPSTAKES PRIZE**: During each daily period Participants will be able to claim one (1) badge from a maximum pool of ten-thousand (10,000) badges. If the badge (NFT) claimed by the Participant has a "Redeemable" public metadata property with one of the following values the Participant will win the corresponding prize via a notification on Stashh.io. 
 
 | Value  | Prize    |
 |--------|----------|
