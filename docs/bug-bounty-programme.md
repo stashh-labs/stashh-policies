@@ -70,7 +70,8 @@ No financial reward will be paid for submissions that are:
 - Already known to the company.
 - Publicly disclosed without our consent.
 - Made in bad faith
-- Low severity vulnerabilities that are properly disclosed and valid may be eligible for non-monetary rewards, awarded at the sole discretion of the company.
+
+Low severity vulnerabilities that are properly disclosed and valid may be eligible for non-monetary rewards, awarded at the sole discretion of the company.
 
 ## Acknowledgement
 If you have made a valid and complete disclosure, you will receive acknowledgment from the company for your contribution.
@@ -88,8 +89,10 @@ By participating in the programme, you agree:
 - To comply with all the terms and conditions outlined in this document.
 - To comply with any reasonable and legal direction of the company in relation to your submission.
 - To keep the details of the submission confidential until such time as:
-   - It is resolved and disclosed by the company, or
-   - The company explicitly authorises you to disclose it.
+
+    - It is resolved and disclosed by the company, or
+    - The company explicitly authorises you to disclose it.
+
 - You are authorised to perform research and testing on our applications only within the scope defined in this document.
 - Participation in this programme does not create an employment relationship between you and the company.
 - The company reserves the right to modify the terms and conditions of this programme at any time and at our sole discretion.
