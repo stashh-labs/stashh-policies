@@ -5,12 +5,14 @@ This document defines the parameters of the bounty program as well as what you c
 
 ## Scope
 While researching a bug or vulnerability you must not do any of the following without the express prior written authorisation of the company:
+
 - **Violate Privacy**: Access, collect, or disclose personal information about our users, employees, or investors.
 - **Degrade Service Performance**: Intentionally degrade the performance or functionality of the service, for example, by sending excessive automated requests, overloading systems, or other actions that negatively impact user experience.
 - **Cause Damage**: Delete, corrupt, or cause damage to data, software, hardware, or infrastructure.
 - **Cause Lasting Harm**: Leave persistent payloads such as XSS or similar behind.
 
 The following areas of the application are explicitly out of scope:
+
 - **Non-Production Environments**: Staging, testing, or development environments not explicitly mentioned as in-scope.
 - **Third-Party Services**: Vulnerabilities in third-party websites or services that are integrated with the platform but not controlled by the organisation.
 - **Denial of Service (DoS) Attacks**: Any form of Denial of Service attacks.
@@ -37,6 +39,7 @@ You must allow a reasonable amount of time for us to address the vulnerability b
 
 ## Validity
 At least the following information must be included in a vulnerability report for it to be considered valid and complete:
+
 - A thorough explanation of the vulnerability, including the type of vulnerability, affected components, and potential impact.
 - A clear description of the steps required to reproduce the vulnerability, including any URLs, parameters, and payloads.
 - A proof of concept that demonstrates the vulnerability. This can include screenshots, video recordings, or sample code.
@@ -59,6 +62,7 @@ The following guidelines are applied by the company when determining a reward:
 | Critical         | Up to $100     | Up to $2,000    |
 
 Rewards are paid in either US Dollars via bank transfer or USDC on Ethereum.
+
 - No financial reward will be paid for submissions that are:
   - Out of scope.
   - Not reproducible.
@@ -78,6 +82,7 @@ All acknowledgments and attributions and their timings are at the discretion of 
 
 ## Legal
 By participating in the programme, you agree:
+
 - To comply with all applicable laws.
 - To comply with all the terms and conditions outlined in this document.
 - To comply with any reasonable and legal direction of the company in relation to your submission.
