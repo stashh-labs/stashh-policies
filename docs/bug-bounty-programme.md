@@ -63,12 +63,13 @@ The following guidelines are applied by the company when determining a reward:
 
 Rewards are paid in either US Dollars via bank transfer or USDC on Ethereum.
 
-- No financial reward will be paid for submissions that are:
-  - Out of scope.
-  - Not reproducible.
-  - Already known to the company.
-  - Publicly disclosed without our consent.
-  - Made in bad faith
+No financial reward will be paid for submissions that are:
+
+- Out of scope.
+- Not reproducible.
+- Already known to the company.
+- Publicly disclosed without our consent.
+- Made in bad faith
 - Low severity vulnerabilities that are properly disclosed and valid may be eligible for non-monetary rewards, awarded at the sole discretion of the company.
 
 ## Acknowledgement
