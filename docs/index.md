@@ -5,6 +5,7 @@ title: Home
 # Stashh Polices Repository
 
 - [Stashh Terms & Conditions](./terms.md)
+- [Bug Bounty Programme Terms & Conditions](./bug-bounty-programme.md)
 
 ## Promotions & Contests
 
