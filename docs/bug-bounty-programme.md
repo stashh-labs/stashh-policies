@@ -1,7 +1,7 @@
 ## Introduction
 Our Bug Bounty Programme is designed to encourage security researchers to responsibly disclose security vulnerabilities and bugs found in Stashh.
 
-This document defines the parameters of the bounty program as well as what you can expect from us and what we expect from you.
+This document defines the parameters of the bounty programme as well as what you can expect from us and what we expect from you.
 
 ## Scope
 While researching a bug or vulnerability you must not do any of the following without the express prior written authorisation of the company:
@@ -55,11 +55,11 @@ To qualify for a reward, you must be the first to report the bug or vulnerabilit
 The following guidelines are applied by the company when determining a reward:
 
 | Severity + Impact | Bug            | Vulnerability   |
-|------------------|----------------|-----------------|
-| Low              | -              | -               |
-| Medium           | -              | Up to $500      |
-| High             | Up to $50      | Up to $1,000    |
-| Critical         | Up to $100     | Up to $2,000    |
+|-------------------|----------------|-----------------|
+| Low               | -              | -               |
+| Medium            | -              | Up to $500      |
+| High              | Up to $50      | Up to $1,000    |
+| Critical          | Up to $100     | Up to $2,000    |
 
 Rewards are paid in either US Dollars via bank transfer or USDC on Ethereum.
 
@@ -69,7 +69,7 @@ No financial reward will be paid for submissions that are:
 - Not reproducible.
 - Already known to the company.
 - Publicly disclosed without our consent.
-- Made in bad faith
+- Made in bad faith.
 
 Low severity vulnerabilities that are properly disclosed and valid may be eligible for non-monetary rewards, awarded at the sole discretion of the company.
 
