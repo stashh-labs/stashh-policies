@@ -50,17 +50,6 @@ At least the following information must be included in a vulnerability report fo
 ## Rewards
 Rewards are granted at the sole discretion of the company. The company reserves the right to decide the severity and impact of a vulnerability and if it has been previously reported.
 
-To qualify for a reward, you must be the first to report the bug or vulnerability and provide a clear description and reproduction steps.
-
-The following guidelines are applied by the company when determining a reward:
-
-| Severity + Impact | Bug            | Vulnerability   |
-|-------------------|----------------|-----------------|
-| Low               | -              | -               |
-| Medium            | -              | Up to $500      |
-| High              | Up to $50      | Up to $1,000    |
-| Critical          | Up to $100     | Up to $2,000    |
-
 Rewards are paid in either US Dollars via bank transfer or USDC on Ethereum.
 
 No financial reward will be paid for submissions that are:
